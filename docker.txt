@@ -1,4 +1,9 @@
 Docker é um gerenciador de containers
 Essa linha foi inserida no GitHub
 essa linha foi inserida na branch ramo1
+<<<<<<< HEAD
 essa linha vai criar um confito local.
+=======
+Essa linha vai gerar um conflito
+>>>>>>> f02dc3be0c50e14edacb638617c36276c52b7c9e
+
